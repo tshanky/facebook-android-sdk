@@ -8,6 +8,7 @@
 facebook/local.properties
 facebook/bin/
 facebook/gen/
+facebook/target/
 examples/Hackbook/bin/
 examples/Hackbook/gen/
 examples/Hackbook/local.properties
